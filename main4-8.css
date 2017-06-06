@@ -1,0 +1,22 @@
+
+form {
+  max-width: 500px;
+  border: 2px solid rebeccapurple;
+  padding: 2%;
+}
+input {
+  margin-top: 10px;
+  width: 60%;
+}
+label {
+  display: inline-block;
+  text-align: right;
+  width: 30%;
+}
+#csv {
+  width: 20%;
+}
+select {
+  margin-top: 10px;
+  width: 20%;
+}
